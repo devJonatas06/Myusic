@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Myusic.Api.Tests/Myusic.Api.Tests.csproj" />
+  <Project Path="Myusic.Api/Myusic.Api.csproj" />
+  <Project Path="Myusic.Core.Tests/Myusic.Core.Tests.csproj" />
+  <Project Path="Myusic.Core/Myusic.Core.csproj" />
+  <Project Path="Myusic.Infrastructure/Myusic.Infrastructure.csproj" />
+</Solution>

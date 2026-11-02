@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPtsziDLiK4=",
+  "success": true,
+  "projectFilePath": "/home/jonata/MYUSIC/Myusic.Api/Myusic.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/jonata/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/home/jonata/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
